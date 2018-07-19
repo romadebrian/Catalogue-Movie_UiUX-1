@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Catalogue Movie UI UX</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nama_user">Najib Ghozy Mustofa</string>
+    <string name="email_user">ghozymustofa28@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--Ini isi dalemnya -->
+
+    <string name="now_playing"> Aktuelle Wiedergabe </string>
+    <string name="up_coming"> Nach oben kommend </string>
+
+    <string name="input_movie_title">  Filmtitel eingeben </string>
+    <string name="search"> Suche </string>
+    <string name="synopsis_movie"> Filmzusammenfassung </string>
+    <string name="rls_date"> Veröffentlichungsdatum </string>
+    <string name="synopsis"> Zusammenfassung </string>
+    <string name="rating_film"> 1000 Bewertungen (9.9 / 10) </string>
+    <string name="rating"> Bewertung </string>
+    <string name="movie_title"> Filmtitel </string>
+    <string name="postermovie"> Filmplakat </string>
+    <string name="tgl_rilis"> Sonntag, 1. Juli 1999 </string>
+    <string name="share"> Freigabe </string>
+    <string name="favorite"> Favorit </string>
+    <string name="home">Zuhause</string>
+    <string name="language">Sprache</string>
+
+
+</resources>
